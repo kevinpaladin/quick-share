@@ -16,5 +16,10 @@ The URL gets shared right in the browser of the other user.
 3. Database - MySQL
 4. ORM - [Peewee](https://github.com/coleifer/peewee)
 
+###Get Flask
+```bash
+  sudo pip install Flask
+```
+
 # How to contribute?
 Fork the repo --> Make changes <--> Test if working properly --> Commit changes --> Send pull request.
